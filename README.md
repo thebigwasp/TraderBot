@@ -1,3 +1,5 @@
+Moved to gitlab https://gitlab.com/thebigwasp/TraderBot
+
 # TraderBot
 
 Cookie clicker mod for automatic trading in stock market minigame.
